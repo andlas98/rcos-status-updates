@@ -6,6 +6,6 @@ Week of 3/24 - 3/30
 ## This Week's Plan
 > Find out through Grace on how to connect the old database of the Petitions site with the new version
 ## Anything Blocking?
-> 
+> I have two exams next week that, too be blunt, are very critical. I don't know if I'll be able to make substantial progress till late Thursday/early, but I will discuss next steps with Grace, as mentioned previously.
 ## Notes
 > Could not make it to RCOS on Friday/make much progress on the project this week due to my being at NSBE's National Convention in Detroit (I think my past updates said that it was in Chicago. I have a habit of mixing the two.)
