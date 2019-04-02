@@ -1,4 +1,3 @@
-Week of 3/24 - 3/30
 ## Last Week's Accomplishments
 > about.html's conversion to Django is 99% complete! Most of the work was stripping down some of the code I had before (head element (as we're using a common CSS file), DOCTYPE! html, etc.) and letting {% block content %} and {% extends %} take care of the rest. However, most of the text in the History and Moderation tabs are just for flavor and are most likely going to be revised after I speak to Student Senate about what they want the text to read. All that's left after that is beautification, which I will focus on after I add further functionality to the all-petitions file.
 > 
