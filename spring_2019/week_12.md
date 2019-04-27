@@ -12,3 +12,5 @@
 > None
 ## Notes
 > As this will be my last semester in RCOS as well as in RPI, I want to express my gratitude in the opportunities that RCOS has provided me. Part of me wishes that the CS curriculum would base itself off of this class, but I accept the logic put into the curriculum. Thanks to Grace Roller, whose amazing leadership and efforts inspired me to take of the role of Project Manager for RPI Petitions. Thanks to the rest of the team, who were all nothing but ambitious and extraordinarily friendly. And thank you to whoever's grading this, as I'm sure that's going to take a while. Thank you for your due diligence.
+>
+> Also, 99% of the work I've done has been done in the frontend2 branch, the 1% in frontend. I apologize for the confusing naming conventions.
